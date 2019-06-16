@@ -117,6 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="CREATEFRAMESFROMLIST_BITMAP" xml:space="preserve">
+    <value>Images.CreateFramesFromList16x16.bmp</value>
+  </data>
+  <data name="CREATEFRAMESFROMLIST_CATEGORY" xml:space="preserve">
+    <value>Robworld</value>
+  </data>
+  <data name="CREATEFRAMESFROMLIST_DESCRIPTION" xml:space="preserve">
+    <value>Create frames from a list</value>
+  </data>
+  <data name="CREATEFRAMESFROMLIST_LARGEBITMAP" xml:space="preserve">
+    <value>Images.CreateFramesFromList32x32.png</value>
+  </data>
+  <data name="CREATEFRAMESFROMLIST_NAME" xml:space="preserve">
+    <value>Create frames</value>
+  </data>
+  <data name="CREATEFRAMESFROMLIST_TOOLTIP" xml:space="preserve">
+    <value>Create frames from a list</value>
+  </data>
   <data name="CREATELOGICALGROUPS_BITMAP" xml:space="preserve">
     <value>Images.CreateLogicalGroups16x16.bmp</value>
   </data>

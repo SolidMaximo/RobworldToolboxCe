@@ -61,6 +61,60 @@ namespace RobworldToolboxCe {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Images.CreateFramesFromList16x16.bmp ähnelt.
+        /// </summary>
+        internal static string CREATEFRAMESFROMLIST_BITMAP {
+            get {
+                return ResourceManager.GetString("CREATEFRAMESFROMLIST_BITMAP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Robworld ähnelt.
+        /// </summary>
+        internal static string CREATEFRAMESFROMLIST_CATEGORY {
+            get {
+                return ResourceManager.GetString("CREATEFRAMESFROMLIST_CATEGORY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Create frames from a list ähnelt.
+        /// </summary>
+        internal static string CREATEFRAMESFROMLIST_DESCRIPTION {
+            get {
+                return ResourceManager.GetString("CREATEFRAMESFROMLIST_DESCRIPTION", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Images.CreateFramesFromList32x32.png ähnelt.
+        /// </summary>
+        internal static string CREATEFRAMESFROMLIST_LARGEBITMAP {
+            get {
+                return ResourceManager.GetString("CREATEFRAMESFROMLIST_LARGEBITMAP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Create frames ähnelt.
+        /// </summary>
+        internal static string CREATEFRAMESFROMLIST_NAME {
+            get {
+                return ResourceManager.GetString("CREATEFRAMESFROMLIST_NAME", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Create frames from a list ähnelt.
+        /// </summary>
+        internal static string CREATEFRAMESFROMLIST_TOOLTIP {
+            get {
+                return ResourceManager.GetString("CREATEFRAMESFROMLIST_TOOLTIP", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Images.CreateLogicalGroups16x16.bmp ähnelt.
         /// </summary>
         internal static string CREATELOGICALGROUPS_BITMAP {
