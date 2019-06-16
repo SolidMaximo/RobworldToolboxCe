@@ -2,7 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:tx="clr-namespace:Tecnomatix.Engineering.Ui.WPF;assembly=Tecnomatix.Engineering.Ui">
 
-    <Style x:Key="TxWpfWindowStyle" TargetType="{x:Type Window}">
+    <Style x:Key="TxWpfWindowStyle" TargetType="{x:Type tx:TxWindow}">
         <Setter Property="Background" Value="RoyalBlue" />
         <Setter Property="FontFamily" Value="Consolas" />
         <Setter Property="FontSize" Value="10" />
