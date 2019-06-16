@@ -1,6 +1,6 @@
-﻿using Tecnomatix.Engineering;
-using RobworldToolboxCe.CommandEnablers;
+﻿using RobworldToolboxCe.CommandEnablers;
 using RobworldToolboxCe.Views;
+using Tecnomatix.Engineering;
 
 namespace RobworldToolboxCe
 {
